@@ -1,4 +1,4 @@
-public class Main {
+public class Order_1 {
     public static void main(String[] args){
         //данні першого замовлення
 

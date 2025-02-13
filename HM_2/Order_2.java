@@ -1,6 +1,6 @@
 package app2;
 
-public class Main {
+public class Order_2 {
     public static void main(String[] args) {
         // Данні смартфона
         String product1 = "smartphone";
